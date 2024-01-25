@@ -27,6 +27,6 @@ This research presents a multifaceted methodology for sentiment analysis in the 
 `Interpretation:` Interpret the results, highlighting key findings and insights derived from the analyses.
 
 ## Contributors:  
-[@Dhanushkumar][https://github.com/Idk507]
-[@Jeevitha][https://github.com/JEEVITHA2512]
+- [@Dhanushkumar][https://github.com/Idk507]
+- [@Jeevitha][https://github.com/JEEVITHA2512]
 
